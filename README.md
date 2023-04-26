@@ -1,8 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm DEVIL MAY CRY</h1>
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/testing-766a5.appspot.com/o/storage%2Fdata%2Fme.png?alt=media&token=8578c2ab-1f4d-4676-9244-9b21ac0a6f1c)
-
-
 <h3 align="center">Be Aware Be Safe !</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
